@@ -2,7 +2,7 @@
 
 A premium audio equipment e-commerce platform built with modern web technologies. Browse and purchase high-quality headphones, speakers, and earphones with a seamless shopping experience.
 
-![Au
+
 
 # Features
 
@@ -373,5 +373,6 @@ Example Confirmation Email Template (HTML)
     </div>
   </body>
 </html>
+
 
 
