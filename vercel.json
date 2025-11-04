@@ -1,4 +1,3 @@
-// vercel.json
 {
   "headers": [
     {
@@ -6,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "connect-src 'self' wss://different-hyena-862.convex.cloud https://different-hyena-862.convex.cloud"
+          "value": "connect-src 'self' wss: https:"
         }
       ]
     }
